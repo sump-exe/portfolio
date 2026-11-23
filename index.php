@@ -46,7 +46,7 @@
         <div class="quick-facts">
             <div class="fact-grid wrap">
                 <div class="fact"><strong>Undergraduate</strong><span>Currently pursuing my degree</span></div>
-                <div class="fact"><strong>Web &amp; UI</strong><span>Areas I'm excited to explore</span></div>
+                <div class="fact"><strong>Backend Web Development &amp; Databases</strong><span>Areas I'm excited to explore</span></div>
                 <div class="fact"><strong>Philippines</strong><span>Based in · Open to opportunities</span></div>
             </div>
         </div>
@@ -62,8 +62,7 @@
                     <p>I enjoy working through a challenge step by step, learning from feedback, and turning an idea into something people can use. I'm currently looking for opportunities to learn alongside a team and keep growing as a developer.</p>
                     <div class="skill-list" aria-label="Skills and tools">
                         <span class="skill">HTML &amp; CSS</span><span class="skill">JavaScript basics</span>
-                        <span class="skill">PHP basics</span><span class="skill">Responsive design</span>
-                        <span class="skill">Figma</span><span class="skill">Git &amp; GitHub</span>
+                        <span class="skill">PHP basics</span><span class="skill">Git &amp; GitHub</span>
                     </div>
                 </div>
             </div>
@@ -107,14 +106,14 @@
                     <p class="eyebrow">My journey</p>
                     <h2>Education</h2>
                     <article class="resume-item">
-                        <p class="resume-date">2023 — Present <span class="sample-label">sample dates</span></p>
+                        <p class="resume-date">2024 — Present <span class="sample-label">sample dates</span></p>
                         <h3>Bachelor of Science in Information Technology</h3>
-                        <p>Sample State University · Undergraduate student<br>Expected graduation: 2027</p>
+                        <p>Batangas State University ARASOF-Nasugbu · Undergraduate student<br>Expected graduation: 2028</p>
                     </article>
                     <article class="resume-item">
-                        <p class="resume-date">Graduated 2023 <span class="sample-label">sample</span></p>
-                        <h3>Senior High School · STEM Strand</h3>
-                        <p>Sample City National High School</p>
+                        <p class="resume-date">Graduated 2024 <span class="sample-label">sample</span></p>
+                        <h3>Senior High School · TVL-ICT Strand</h3>
+                        <p>Immaculate Conception College</p>
                     </article>
                 </div>
                 <div class="resume-column">
