@@ -120,9 +120,9 @@
                     <p class="eyebrow">Learning beyond class</p>
                     <h2>Certificates</h2>
                     <article class="resume-item">
-                        <p class="resume-date">2025 · Online learning <span class="sample-label">sample</span></p>
-                        <h3>Responsive Web Design</h3>
-                        <p>freeCodeCamp · Sample learning credential</p>
+                        <p class="resume-date">2026 · Workshop<span class="sample-label">sample</span></p>
+                        <h3>Databases</h3>
+                        <p>Information Technology Specialist</p>
                     </article>
                     <article class="resume-item">
                         <p class="resume-date">2024 · Online learning <span class="sample-label">sample</span></p>
