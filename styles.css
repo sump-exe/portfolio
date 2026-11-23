@@ -93,11 +93,10 @@ h2 { margin-bottom: 14px; font-size: clamp(2.2rem, 5vw, 3.5rem); line-height: 1.
 .hero-art:before, .hero-art:after { position: absolute; content: ""; border: 1px solid rgba(164, 67, 105, .2); border-radius: 50%; }
 .hero-art:before { width: 270px; height: 270px; }
 .hero-art:after { width: 325px; height: 325px; }
-.art-initials {
-    z-index: 1; width: 180px; height: 180px; display: grid; place-items: center;
-    border-radius: 50%; background: var(--pink); color: white;
+.art-photo {
+    z-index: 1; width: 180px; height: 180px; display: block;
+    border-radius: 50%; object-fit: cover; object-position: center 32%;
     box-shadow: 0 22px 60px rgba(129, 52, 79, .19);
-    font-family: var(--serif); font-size: 4.1rem; letter-spacing: -.08em;
 }
 .art-note {
     position: absolute; z-index: 2; right: 12px; bottom: 30px;
@@ -179,7 +178,7 @@ footer { padding: 24px 0; color: var(--muted); font-size: .78rem; }
     .hero-art { min-height: 290px; }
     .hero-art:before { width: 220px; height: 220px; }
     .hero-art:after { width: 270px; height: 270px; }
-    .art-initials { width: 145px; height: 145px; font-size: 3.4rem; }
+    .art-photo { width: 145px; height: 145px; }
     .art-note { right: 8px; bottom: 18px; }
     .fact { padding: 17px 12px; }
     .fact:first-child { padding-left: 0; }

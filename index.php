@@ -36,9 +36,9 @@
                         <a class="button button-secondary" href="#contact">Get in touch</a>
                     </div>
                 </div>
-                <div class="hero-art" aria-label="Decorative monogram illustration">
-                    <div class="art-initials" aria-hidden="true">CT</div>
-                    <div class="art-note">Currently learning <strong>HTML, CSS &amp; JavaScript</strong></div>
+                <div class="hero-art">
+                    <img class="art-photo" src="1x1.png" alt="Portrait of Ma. Cassandra Tansioco">
+                    <div class="art-note">Currently learning <strong>Javascript, PHP &amp; CodeIgniter</strong></div>
                 </div>
             </div>
         </section>
