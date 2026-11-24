@@ -46,7 +46,7 @@
         <div class="quick-facts">
             <div class="fact-grid wrap">
                 <div class="fact"><strong>Undergraduate</strong><span>Currently pursuing my degree</span></div>
-                <div class="fact"><strong>Backend Web Development &amp; Databases</strong><span>Areas I'm excited to explore</span></div>
+                <div class="fact"><strong>Backend Web Development &amp; Frameworks</strong><span>Areas I'm excited to explore</span></div>
                 <div class="fact"><strong>Philippines</strong><span>Based in · Open to opportunities</span></div>
             </div>
         </div>
@@ -72,10 +72,10 @@
             <div class="wrap">
                 <div class="section-heading">
                     <div>
-                        <p class="eyebrow">Selected work · Sample projects</p>
+                        <p class="eyebrow">Selected work</p>
                         <h2>Things I've made.</h2>
                     </div>
-                    <p class="section-intro">A few sample class and practice projects that show what I'm learning. Replace these with your own work and links.</p>
+                    <p class="section-intro">These are projects that I have made that showcase my skills and experience as a web developer.</p>
                 </div>
                 <div class="project-grid">
                     <article class="project-card">
@@ -115,7 +115,7 @@
                     <p class="eyebrow">Learning beyond class</p>
                     <h2>Certificates</h2>
                     <article class="resume-item">
-                        <p class="resume-date">2026 · Workshop<span class="sample-label">sample</span></p>
+                        <p class="resume-date">2026 · Workshop</p>
                         <h3>Databases</h3>
                         <p>Information Technology Specialist</p>
                     </article>
@@ -148,7 +148,6 @@
     <footer>
         <div class="footer-inner wrap">
             <span>© <?= date('Y') ?> Ma. Cassandra Tansioco · Student portfolio</span>
-            <span class="sample-notice">Sample details shown — update before publishing.</span>
         </div>
     </footer>
 </body>
