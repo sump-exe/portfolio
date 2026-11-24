@@ -29,7 +29,7 @@
             <div class="hero-grid wrap">
                 <div>
                     <p class="eyebrow">IT student · Aspiring web developer</p>
-                    <h1>Curious by nature.<br><span>Creative by code.</span></h1>
+                    <h1>Curious by nature.<br><span>Built on Solid Logic.</span></h1>
                     <p class="hero-copy">Hello, I'm Cassandra — a college student exploring the world of web development and thoughtful digital design. I'm learning, building, and always ready for the next challenge.</p>
                     <div class="hero-actions">
                         <a class="button" href="#projects">Explore my work <span aria-hidden="true">&nbsp;↓</span></a>
