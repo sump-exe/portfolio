@@ -79,22 +79,17 @@
                 </div>
                 <div class="project-grid">
                     <article class="project-card">
-                        <div class="project-top"><span class="project-number">01 / WEB</span><span class="project-type">Class project</span></div>
-                        <h3>Campus Connect</h3>
-                        <p>A responsive student hub concept for sharing campus announcements, club activities, and helpful links in one place.</p>
-                        <div class="project-tags"><span>HTML</span><span>CSS</span><span>JavaScript</span></div>
+                        <div class="project-top"><span class="project-number">01 / PHP Sessions</span><span class="project-type">Class activity</span></div>
+                        <h3>Session Auth Web App</h3>
+                        <p>A demo of a simple session-based authentication web application.<br><br>
+                        Stored in <a href="https://github.com/sump-exe/session_auth_tansioco" target="_blank">this repository</a>.</p>
+                        <div class="project-tags"><span>HTML</span><span>Bootstrap</span><span>PHP</span></div>
                     </article>
                     <article class="project-card">
-                        <div class="project-top"><span class="project-number">02 / UI</span><span class="project-type">Design study</span></div>
-                        <h3>StudySpace</h3>
-                        <p>A simple dashboard concept for organizing study sessions, tracking small goals, and staying on top of assignments.</p>
-                        <div class="project-tags"><span>Figma</span><span>UI design</span><span>Prototyping</span></div>
-                    </article>
-                    <article class="project-card">
-                        <div class="project-top"><span class="project-number">03 / PHP</span><span class="project-type">Practice app</span></div>
-                        <h3>Local Eats Directory</h3>
-                        <p>A starter directory that helps students browse nearby budget-friendly food spots by category and price range.</p>
-                        <div class="project-tags"><span>PHP</span><span>MySQL</span><span>Bootstrap</span></div>
+                        <div class="project-top"><span class="project-number">02 / POS and Analytics System</span><span class="project-type">Group Semestral Project</span></div>
+                        <h3>SalesNudge</h3>
+                        <p>A web app developed by team lead by Ma. Cassandra Tansioco that is designed to streamline point-of-sale processes and provide analytics for sales performance specifically made for a restaurant business. <br><br> Stored in <a href="https://github.com/sump-exe/salesnudge" target="_blank">this repository</a>.</p>
+                        <div class="project-tags"><span>PHP</span><span>MySQL</span><span>System Architecture</span><span>Prototyping</span></div>
                     </article>
                 </div>
             </div>
@@ -106,12 +101,12 @@
                     <p class="eyebrow">My journey</p>
                     <h2>Education</h2>
                     <article class="resume-item">
-                        <p class="resume-date">2024 — Present <span class="sample-label">sample dates</span></p>
+                        <p class="resume-date">2024 — Present</p>
                         <h3>Bachelor of Science in Information Technology</h3>
                         <p>Batangas State University ARASOF-Nasugbu · Undergraduate student<br>Expected graduation: 2028</p>
                     </article>
                     <article class="resume-item">
-                        <p class="resume-date">Graduated 2024 <span class="sample-label">sample</span></p>
+                        <p class="resume-date">Graduated 2024</p>
                         <h3>Senior High School · TVL-ICT Strand</h3>
                         <p>Immaculate Conception College</p>
                     </article>
@@ -124,7 +119,7 @@
                         <h3>Databases</h3>
                         <p>Information Technology Specialist</p>
                     </article>
-                    <article class="resume-item">
+                    <!--<article class="resume-item">
                         <p class="resume-date">2024 · Online learning <span class="sample-label">sample</span></p>
                         <h3>Introduction to UI/UX Design</h3>
                         <p>Coursera · Sample course completion</p>
@@ -133,7 +128,7 @@
                         <p class="resume-date">2024 · Workshop <span class="sample-label">sample</span></p>
                         <h3>Getting Started with Git &amp; GitHub</h3>
                         <p>University tech workshop · Sample participation certificate</p>
-                    </article>
+                    </article>-->
                 </div>
             </div>
         </section>
