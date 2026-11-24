@@ -140,7 +140,7 @@
                     <h2>Let's make something meaningful.</h2>
                     <p>I'm happy to connect, collaborate, or simply talk about ideas.</p>
                 </div>
-                <a class="button" href="mailto:cassandra.tansioco@example.com">Say hello <span aria-hidden="true">&nbsp;↗</span></a>
+                <a class="button" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=macassandratansioco@gmail.com&amp;su=Portfolio%20Inquiry" target="_blank" rel="noopener noreferrer">Say hello <span aria-hidden="true">&nbsp;↗</span></a>
             </div>
         </section>
     </main>
